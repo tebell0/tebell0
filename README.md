@@ -1,4 +1,13 @@
-## Hi there 👋
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/747b97f3-cf67-46fe-b793-72ae0f935daa" />
+
+<h2 align="center">Computer Systems Analysis Senior @ University of Houston</h2>
+
+- 👨‍💻 I am an aspiring data analyst focused on using past data to make better decisions for a better tomorrow!
+- 🇿🇦 Hailing from Johannesburg, South Africa!
+- 🇺🇸 Currently based in Houston, TX, USA
+- 💬 Ask me about: Creative Formatting through Tableau and Power BI, Strength of data-driven decisions, Exploratory Data Analysis
+- 📫 Reach me at *tebzamrose@gmail.com*
+- ⚡ Fun Fact about me: I'm a Gemini!
 
 <!--
 **tebell0/tebell0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
