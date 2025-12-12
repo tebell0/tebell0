@@ -9,6 +9,10 @@
 - 📫 Reach me at *tebzamrose@gmail.com*
 - ⚡ Fun Fact about me: I'm a Gemini!
 
+Certifications:
+- The Complete SQL Bootcamp: From Zero to Hero (Udemy)
+- Tableau Desktop Foundations (Salesforce)
+
 <!--
 **tebell0/tebell0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
